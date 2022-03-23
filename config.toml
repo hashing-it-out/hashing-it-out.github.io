@@ -15,13 +15,13 @@ theme = "DoIt"
   title = "Hashing It Out Podcast"
   gitRepo = "https://github.com/hashing-it-out/hashing-it-out.github.io"
   # Website images for Open Graph and Twitter Cards
-  images = []
+  images = ["assets/images/hio-logo.jpg"]
   enablePWA = false
   [params.home]
     # amount of RSS pages
     [params.home.profile]
       enable = true
-      avatarURL = "/assets/images/Episode-Thumbnail.webp"
+      avatarURL = "/assets/images/hio-logo.jpg"
       subtitle = "A podcast that goes deep into the weeds of decentralization technology"
       typeit = true
       social = true
@@ -35,9 +35,9 @@ theme = "DoIt"
     Telegram = "xxxx"
     Medium = ""
     Gitlab = ""
-    Youtubelegacy = "xxxx"
+    Youtubelegacy = ""
     Youtubecustom = ""
-    Youtubechannel = ""
+    Youtubechannel = "UCAI6Gk0R_1aGa76ShKFA78Q"
     Tumblr = ""
     Quora = ""
     Keybase = ""
@@ -99,7 +99,7 @@ theme = "DoIt"
     RSS = true
   [params.header]
     # desktop header mode ("fixed", "normal", "auto")
-    desktopMode = "fixed"
+    desktopMode = "auto"
     # mobile header mode ("fixed", "normal", "auto")
     mobileMode = "auto"
     # theme change mode ("switch", "select")
@@ -109,7 +109,7 @@ theme = "DoIt"
       logo = ""
       # title name
       name = "Hashing It Out Podcast"
-      pre = "<i class='far fa-edit fa-fw'></i>"
+      pre = ""
       # you can add extra information after the name (HTML format is supported), such as icons
       post = ""
       # whether to use typeit animation for title name
@@ -138,7 +138,7 @@ theme = "DoIt"
     # whether to enable the fontawesome extended syntax
     fontawesome = true
     # Page style ("normal", "wide")
-    pageStyle = "normal"
+    pageStyle = "wide"
     # whether to enable series navigation
     seriesNavigation = true
     [params.page.share]
@@ -243,13 +243,13 @@ theme = "DoIt"
 
 [menu]
   [[menu.main]]
-    identifier = "episodes"
+    identifier = "posts"
     # you can add extra information before the name (HTML format is supported), such as icons
     pre = ""
     # you can add extra information after the name (HTML format is supported), such as icons
     post = ""
     name = "Episodes"
-    url = "/episodes/"
+    url = "/posts/"
     # title will be shown when you hover on this menu link
     title = ""
     weight = 1

@@ -5,12 +5,13 @@ lastmod: 2022-03-22T14:08:05+01:00
 draft: false
 description: "Guests: Corey Petty and Gun Sirer"
 authors: [Corey]
-featuredImage: "assets/images/Episode-Thumbnail.webp"
+featuredImage: "Episode-Thumbnail.webp"
+featuredImagePreview: "Episode-Thumbnail.webp"
 lightgallery: true
-hiddenFromHomePage: false
-hiddenFromSearch: false
 tags: ["ethereum", "infrastructure"]
 categories: ["hashing-it-out"]
+
+
 ---
 
 #### Guests: 
@@ -42,8 +43,8 @@ Come listen and enjoy learning about the Web3 security ecosystem and how you can
 * Twitter: https://twitter.com/TheSecureum
 * Blog: https://secureum.substack.com/
 
-<!-- ## youtube
+## youtube
 
-{{< youtube w7Ft2ymGmfc >}} -->
+{{< youtube 43kuHpqikPI >}}
 
 
