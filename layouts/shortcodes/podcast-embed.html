@@ -1,0 +1,10 @@
+{{ with .Get "url" }}
+    <iframe 
+    height="200px" 
+    width="100%" 
+    frameborder="no" 
+    scrolling="no" 
+    seamless 
+    src="{{ . }}">
+    </iframe>
+{{ end }}

@@ -1,0 +1,297 @@
+baseURL = "http://example.org/"
+# [en, zh-cn, fr, ...] determines default content language
+defaultContentLanguage = "en"
+# language code
+languageCode = "en"
+title = "Hashing It Out Podcast"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "DoIt"
+
+[params]
+  # DoIt theme version
+  version = "0.2.X"
+  # Website Title
+  title = "Hashing It Out Podcast"
+  gitRepo = "https://github.com/hashing-it-out/hashing-it-out.github.io"
+  # Website images for Open Graph and Twitter Cards
+  images = []
+  enablePWA = false
+  [params.home]
+    # amount of RSS pages
+    [params.home.profile]
+      enable = true
+      avatarURL = "/assets/images/Episode-Thumbnail.webp"
+      subtitle = "A podcast that goes deep into the weeds of decentralization technology"
+      typeit = true
+      social = true
+      disclaimer = "No content produced here or in the podcast is financial advice"
+  [params.social]
+    GitHub = "hashing-it-out"
+    Linkedin = ""
+    Twitter = "hashingitoutpod"
+    Instagram = ""
+    Facebook = "xxxx"
+    Telegram = "xxxx"
+    Medium = ""
+    Gitlab = ""
+    Youtubelegacy = "xxxx"
+    Youtubecustom = ""
+    Youtubechannel = ""
+    Tumblr = ""
+    Quora = ""
+    Keybase = ""
+    Pinterest = ""
+    Reddit = ""
+    Codepen = ""
+    FreeCodeCamp = ""
+    Bitbucket = ""
+    Stackoverflow = ""
+    Weibo = ""
+    Odnoklassniki = ""
+    VK = ""
+    Flickr = ""
+    Xing = ""
+    Snapchat = ""
+    Soundcloud = ""
+    Spotify = "xxxx"
+    Bandcamp = ""
+    Paypal = "xxxx"
+    Fivehundredpx = ""
+    Mix = ""
+    Goodreads = ""
+    Lastfm = ""
+    Foursquare = ""
+    Hackernews = ""
+    Kickstarter = ""
+    Patreon = "xxxx"
+    Steam = ""
+    Twitch = "xxxx"
+    Strava = ""
+    Skype = ""
+    Whatsapp = ""
+    Zhihu = ""
+    Douban = ""
+    Angellist = ""
+    Slidershare = ""
+    Jsfiddle = ""
+    Deviantart = ""
+    Behance = ""
+    Dribbble = ""
+    Wordpress = ""
+    Vine = ""
+    Googlescholar = ""
+    Researchgate = ""
+    Thingiverse = ""
+    Devto = ""
+    Gitea = ""
+    XMPP = ""
+    Matrix = ""
+    Bilibili = ""
+    ORCID = ""
+    QQ = ""
+    QQGroup = ""
+    Liberapay = ""
+    Ko-Fi = ""
+    BuyMeACoffee = ""
+    Linktree = ""
+    Email = "petty@hashingitout.stream"
+    RSS = true
+  [params.header]
+    # desktop header mode ("fixed", "normal", "auto")
+    desktopMode = "fixed"
+    # mobile header mode ("fixed", "normal", "auto")
+    mobileMode = "auto"
+    # theme change mode ("switch", "select")
+    themeChangeMode = "select"
+    [params.header.title]
+      # URL of the LOGO
+      logo = ""
+      # title name
+      name = "Hashing It Out Podcast"
+      pre = "<i class='far fa-edit fa-fw'></i>"
+      # you can add extra information after the name (HTML format is supported), such as icons
+      post = ""
+      # whether to use typeit animation for title name
+      typeit = true
+  # Footer config
+  [params.footer]
+    enable = true
+    # Custom content (HTML format is supported)
+    custom = ''
+    # whether to show Hugo and theme info
+    hugo = true
+    # Hosted on (HTML format is supported)
+    # <a title="Github Pages" href="https://docs.github.com/en/pages/" target="_blank" rel="noopener noreffer">GitHub Pages</a>
+    hostedOn = '' 
+    # whether to show copyright info
+    copyright = true
+    # whether to show the author
+    author = true
+    # site creation time
+    since = 2019
+    # ICP info only in China (HTML format is supported)
+    icp = ""
+    # license info (HTML format is supported)
+    license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+  [params.page]
+    # whether to enable the fontawesome extended syntax
+    fontawesome = true
+    # Page style ("normal", "wide")
+    pageStyle = "normal"
+    # whether to enable series navigation
+    seriesNavigation = true
+    [params.page.share]
+      enable = true
+      Twitter = true
+      Facebook = true
+      Linkedin = false
+      Whatsapp = false
+      Pinterest = false
+      Tumblr = false
+      HackerNews = true
+      Reddit = false
+      VK = false
+      Buffer = false
+      Xing = false
+      Line = true
+      Instapaper = false
+      Pocket = false
+      Digg = false
+      Stumbleupon = false
+      Flipboard = false
+      Weibo = true
+      Renren = false
+      Myspace = false
+      Blogger = false
+      Baidu = false
+      Odnoklassniki = false
+      Evernote = false
+      Skype = false
+      Trello = false
+      Mix = false
+      Telegram = true
+     google = "MQ8DNu27ayX6B_4ObiEDK09vGr1fdy7kOAnbd09hJk4"
+    bing = ""
+    yandex = ""
+    pinterest = ""
+    baidu = ""
+    so = ""
+    sogou = ""
+  # Site SEO config
+  [params.seo]
+    # image URL
+    image = "/images/Apple-Devices-Preview.png"
+    # thumbnail URL
+    thumbnailUrl = "/images/screenshot.png"
+  # Analytics config
+  [params.analytics]
+    enable = false
+    # Google Analytics
+    [params.analytics.google]
+      id = ""
+      # whether to anonymize IP
+      anonymizeIP = true
+    # Fathom Analytics
+    [params.analytics.fathom]
+      id = ""
+      # server url for your tracker if you're self hosting
+      server = ""
+    # Baidu Analytics
+    [params.analytics.baidu]
+      id = ""
+    # Umami Analytics
+    [params.analytics.umami]
+      data_website_id = ""
+      src = ""
+      data_domains = ""
+    # Plausible Analytics
+    [params.analytics.plausible]
+      data_domain = ""
+      src = ""
+    # Cloudflare Analytics
+    [params.analytics.cloudflare]
+      token = ""
+
+  # Cookie consent config
+  [params.cookieconsent]
+    enable = false
+    # text strings used for Cookie consent banner
+    [params.cookieconsent.content]
+      message = ""
+      dismiss = ""
+      link = ""
+
+  # CDN config for third-party library files
+  [params.cdn]
+    # CDN data file name, disabled by default
+    # ("jsdelivr.yml")
+    # located in "themes/DoIt/assets/data/cdn/" directory
+    # you can store your own data files in the same path under your project:
+    # "assets/data/cdn/"
+    # ("jsdelivr.yml")
+    # "assets/data/cdn/"
+    data = ""
+
+  # Compatibility config
+  [params.compatibility]
+    # whether to use Polyfill.io to be compatible with older browsers
+    polyfill = false
+    # whether to use object-fit-images to be compatible with older browsers
+    objectFit = false
+
+
+[menu]
+  [[menu.main]]
+    identifier = "episodes"
+    # you can add extra information before the name (HTML format is supported), such as icons
+    pre = ""
+    # you can add extra information after the name (HTML format is supported), such as icons
+    post = ""
+    name = "Episodes"
+    url = "/episodes/"
+    # title will be shown when you hover on this menu link
+    title = ""
+    weight = 1
+  [[menu.main]]
+    identifier = "series"
+    pre = ""
+    post = ""
+    name = "Series"
+    url = "/series/"
+    weight = 2
+  [[menu.main]]
+    identifier = "tags"
+    pre = ""
+    post = ""
+    name = "Tags"
+    url = "/tags/"
+    title = ""
+    weight = 5
+  [[menu.main]]
+    identifier = "categories"
+    pre = ""
+    post = ""
+    name = "Categories"
+    url = "/categories/"
+    title = ""
+    weight = 4
+  [[menu.main]]
+    identifier = "authors"
+    pre = ""
+    post = ""
+    name = "Authors"
+    url = "/authors/"
+    title = ""
+    weight = 3
+    
+
+# Markup related configuration in Hugo
+[markup]
+  # Syntax Highlighting (https://gohugo.io/content-management/syntax-highlighting)
+  [markup.highlight]
+    # false is a necessary configuration (https://github.com/dillonzq/LoveIt/issues/158)
+    noClasses = false
+
+[taxonomies]
+author = "authors"
