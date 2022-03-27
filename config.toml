@@ -134,6 +134,37 @@ theme = "DoIt"
     icp = ""
     # license info (HTML format is supported)
     license= '<a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
+    [params.search]
+    enable = true
+    # type of search engine ("lunr", "algolia", "fuse")
+    type = "fuse"
+    # max index length of the chunked content
+    contentLength = 4000
+    # placeholder of the search bar
+    placeholder = ""
+    # DoIt NEW | 0.2.1 max number of results length
+    maxResultLength = 10
+    # DoIt NEW | 0.2.3 snippet length of the result
+    snippetLength = 30
+    # HTML tag name of the highlight part in results
+    highlightTag = "em"
+    # whether to use the absolute URL based on the baseURL in search index
+    absoluteURL = false
+    [params.search.algolia]
+      index = ""
+      appID = ""
+      searchKey = ""
+    [params.search.fuse]
+      # https://fusejs.io/api/options.html
+      isCaseSensitive = false
+      minMatchCharLength = 2
+      findAllMatches = false
+      location = 0
+      threshold = 0.3
+      distance = 100
+      ignoreLocation = false
+      useExtendedSearch = false
+      ignoreFieldNorm = false
   [params.page]
     # whether to enable the fontawesome extended syntax
     fontawesome = true
@@ -141,6 +172,21 @@ theme = "DoIt"
     pageStyle = "wide"
     # whether to enable series navigation
     seriesNavigation = true
+    # Comment config
+    [params.page.comment]
+      enable = true
+      # Disqus comment config
+      [params.page.comment.disqus]
+        enable = false
+        # Disqus shortname to use Disqus in posts
+        shortname = ""
+      # Gitalk comment config
+      [params.page.comment.gitalk]
+        enable = true
+        owner = "corpetty"
+        repo = "hio-comments"
+        clientId = "26456decbb4d018ef5ee"
+        clientSecret = "6f7d32cfe4cbf9025d66d7b82c18760d09639bfd"
     [params.page.share]
       enable = true
       Twitter = true
@@ -189,7 +235,7 @@ theme = "DoIt"
     enable = false
     # Google Analytics
     [params.analytics.google]
-      id = ""
+      id = "G-R5KN2SBRCR"
       # whether to anonymize IP
       anonymizeIP = true
     # Fathom Analytics
