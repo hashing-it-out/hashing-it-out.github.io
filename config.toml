@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "http://hashing-it-out.github.io"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
@@ -196,17 +196,17 @@ theme = "DoIt"
       Pinterest = false
       Tumblr = false
       HackerNews = true
-      Reddit = false
+      Reddit = true
       VK = false
       Buffer = false
       Xing = false
-      Line = true
+      Line = false
       Instapaper = false
       Pocket = false
       Digg = false
       Stumbleupon = false
       Flipboard = false
-      Weibo = true
+      Weibo = false
       Renren = false
       Myspace = false
       Blogger = false
@@ -217,7 +217,7 @@ theme = "DoIt"
       Trello = false
       Mix = false
       Telegram = true
-     google = "MQ8DNu27ayX6B_4ObiEDK09vGr1fdy7kOAnbd09hJk4"
+    google = "MQ8DNu27ayX6B_4ObiEDK09vGr1fdy7kOAnbd09hJk4"
     bing = ""
     yandex = ""
     pinterest = ""
