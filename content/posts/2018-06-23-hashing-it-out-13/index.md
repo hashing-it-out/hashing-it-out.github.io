@@ -10,7 +10,7 @@ featuredImage: "ep13_Logan.jpg"
 
 * * *
 
-\[one\_half\]Episode 13\[/one\_half\]\[one\_half\_last\]June 23, 2018 — 51 mins\[/one\_half\_last\] **Guests: Logan**
+ Episode 13 June 23, 2018 — 51 mins - **Guests: Logan**
 
 Today Corey and Collin talk with Logan Brutsche, the creator of ToastyCoin, about the concept of "cryptoeconomic primitives." He is setting up an academy to walk people through what those are, and how to start making them in a collaborative manner to push the blockchain community forward in a secure and safe manner. Come listen and learn, then join his academy and learn more.
 

@@ -10,6 +10,6 @@ featuredImage: "ep15_header.jpg"
 
 * * *
 
-\[one\_half\]Episode 15\[/one\_half\]\[one\_half\_last\]July 11, 2018 — 65 mins\[/one\_half\_last\] **Guests: Ryan John King & Kristoffer Josefsson**
+ Episode 15 July 11, 2018 — 65 mins - **Guests: Ryan John King & Kristoffer Josefsson**
 
 We discuss with Ryan and Kristoffer from FOAM about their protocol which verifies location in a blockchain. Their innovative protocol uses LoRa, blockchain consensus, and a triangulation mechanism called Proof of Location to verify an agents location at a certain point in time. Using their proposed Crypto Spatial Standard, entities can report their location to the blockchain which agent devices known as "anchors" verify for use in consensus applications. Truly amazing technology with massive implications!

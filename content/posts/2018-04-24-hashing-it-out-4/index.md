@@ -10,6 +10,6 @@ featuredImage: "hit4banner.jpg"
 
 * * *
 
-\[one\_half\]Episode 04\[/one\_half\]\[one\_half\_last\]April 24, 2018 — 56 mins\[/one\_half\_last\] **Guests: Will O'Beirne**
+ Episode 04 April 24, 2018 — 56 mins - **Guests: Will O'Beirne**
 
 Will O'Beirne of MyCrypto talks with us about front end dapp development, conveying trust to your end-user on trustless networks, deployment methodology for decentralized systems, and what it takes to build a product in this early stage of blockchain development. We also go over some of the project libraries and tools used in creating MyCrypto. It's a compelling take on how UX design can inform product growth.

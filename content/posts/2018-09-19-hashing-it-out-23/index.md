@@ -10,7 +10,7 @@ featuredImage: "HIOgunsirer.jpg"
 
 * * *
 
-\[one\_half\]Episode 23\[/one\_half\]\[one\_half\_last\]September 19, 2018 — 90 mins\[/one\_half\_last\] **Guests: Emin Gün Sirer**
+ Episode 23 September 19, 2018 — 90 mins - **Guests: Emin Gün Sirer**
 
 Revolutionary! On this episode we have the brilliant Dr. Gün Sirer to whet our appetites for Avalanche, a new category of consensus protocol. He distinguishes Avalanche from Paxos/RAFT systems, blockchain, and traditional gossip networks to show how this new algorithm prevents double spends while allowing for high throughput (early tests supporting over 1200 tx/s). We learn about his new coin, Ava, which will test the limits of Avalanche's public consensus on a global scale! The future is exciting!
 

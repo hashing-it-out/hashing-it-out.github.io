@@ -10,7 +10,7 @@ featuredImage: "ep12.jpg"
 
 * * *
 
-\[one\_half\]Episode 12\[/one\_half\]\[one\_half\_last\]June 19, 2018 — 63 mins\[/one\_half\_last\] **Guests: None**
+ Episode 12 June 19, 2018 — 63 mins - **Guests: None**
 
 A set of notes were just released for a revised version of the Casper protocol which merges its goals with sharding research. It uses a beacon chain to behave as a source of randomness with the RANDAO being central to that chain. This enables a commitee of validators to be selected for validating individual shards rather than the entire chain and sign it using BLS signatures. Corey Petty and Collin Cusce discuss these notes and try to suss out what this means for Ethereum if it were implemented.
 

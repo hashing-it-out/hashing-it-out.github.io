@@ -10,7 +10,7 @@ featuredImage: "ep22_ryan.jpg"
 
 * * *
 
-\[one\_half\]Episode 22\[/one\_half\]\[one\_half\_last\]September 13, 2018 — 102 mins\[/one\_half\_last\] **Guests: Danny Ryan**
+ Episode 22 September 13, 2018 — 102 mins - **Guests: Danny Ryan**
 
 We got a big one for you today! Danny Ryan from Ethereum comes on to speak with us about the Casper Sharding v2.1 specification. Casper Sharding is a combined effort between the migration to Proof of Stake and Sharding for ethereum. We go over the motivations behind the new specification, the research efforts underway, the architecture and design, and even how Ethereum can maintain liveness during a major world catastrophic event. There's so much information to cover, and we only scratched the surface. The future of Ethereum looks exciting!
 

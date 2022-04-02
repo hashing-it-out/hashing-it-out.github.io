@@ -10,6 +10,6 @@ featuredImage: "ep18_stanjames.jpg"
 
 * * *
 
-\[one\_half\]Episode 18\[/one\_half\]\[one\_half\_last\]August 09, 2018 — 58 mins\[/one\_half\_last\] **Guests: Stan James**
+ Episode 18 August 09, 2018 — 58 mins - **Guests: Stan James**
 
 In this episode we talk with Stan James, Lead Engineer at Origin Protocol. They are building a mechanism for completely decentralized market listings and purchasing using Ethereum smart contracts. We go over the design, the tools, and the integration pathways for Origin, the challenges faced in designing this protocol, and the layer 2 solutions which improve the service of messaging buyers and sellers in a listing.

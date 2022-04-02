@@ -1,8 +1,8 @@
 ---
 title: "Hashing It Out #2: Orie Steele"
 date: "2018-04-10"
-categories: 
-  - "hashing-it-out"
+categories: ["hashing-it-out"]
+tags: ["Ethereum", "security", "devtools", "languages", "scaling"]
 featuredImage: "images/hashingitoutheader2.jpg"
 ---
 

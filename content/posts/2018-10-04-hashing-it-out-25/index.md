@@ -10,7 +10,7 @@ featuredImage: "iuriHIO.jpg"
 
 * * *
 
-\[one\_half\]Episode 25\[/one\_half\]\[one\_half\_last\]October 04, 2018 — 68 mins\[/one\_half\_last\] **Guests: Iuri Matias**
+ Episode 25 October 04, 2018 — 68 mins - **Guests: Iuri Matias**
 
 Today we have the pleasure of interviewing Iuri Matias of Embark Framework. Embark is a decentralized application framework that abstracts away the implementation details of specific technologies, allowing dapp developers to focus on what really matters, the experience. We talk about the features of Embark, the design decisions of the framework, and how Embark will integrate new technologies into their systems as they develop.
 

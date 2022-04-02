@@ -10,6 +10,6 @@ featuredImage: "ep16_header.jpg"
 
 * * *
 
-\[one\_half\]Episode 16\[/one\_half\]\[one\_half\_last\]July 17, 2018 — 65 mins\[/one\_half\_last\] **Guests: Fr8 Protocol Team**
+ Episode 16 July 17, 2018 — 65 mins - **Guests: Fr8 Protocol Team**
 
 Fr8 Protocol is a startup which is creating a standard communication layer to facilitate supply chain logistics using blockhcain as the truth mechanism. This early-stage startup has designed their protocol for improved track and trace, trustless exchange, and network resiliency and is partnering to integrate their protocol into IoT devices. We discuss with their team about the challenges in the space and what they hope their protocol will provide to the world, as well as how such a protocol can be managed trustlessly going forward.

@@ -10,7 +10,7 @@ coverImage: "35HIO.jpg"
 
 * * *
 
-\[one\_half\]Episode 35\[/one\_half\]\[one\_half\_last\]January 19, 2019 — 74 mins\[/one\_half\_last\] **Guests: Trail of Bits & ChainSecurity**
+ Episode 35 January 19, 2019 — 74 mins - **Guests: Trail of Bits & ChainSecurity**
 
 Back with season 2 of Hashing It Out, and we have a doozy! This Episode features Trail of Bits and ChainSecurity to talk about their amazing last-minute catch of EIP-1283's impact on the Constantinople Ethereum hard fork. We go over how they found it, what recommendations they made, and how the hard fork was postponed to quickly. We also discuss the tooling behind analyzing such a vulnerability, the true impact had it been released, and how the processes around hard fork release candidates could be altered by this detection.
 

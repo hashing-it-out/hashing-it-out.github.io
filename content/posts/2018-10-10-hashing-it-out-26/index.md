@@ -10,7 +10,7 @@ featuredImage: "26HIO.jpg"
 
 * * *
 
-\[one\_half\]Episode 26\[/one\_half\]\[one\_half\_last\]October 10, 2018 — 59 mins\[/one\_half\_last\] **Guests: Michael Egorov & John Pacific**
+ Episode 26 October 10, 2018 — 59 mins - **Guests: Michael Egorov & John Pacific**
 
 Great Caesar's Ghost! NuCypher has demo'd a practical fully-homomorphic encryption (FHE) scheme that leverages an Ethereum smart contract for a proof mechanism. We get to go over FHE: what it is, how it works, how it commits to the blockchain, scaling issues, and the future of encrypted computation. This will enable new privacy mechanisms on layer 2 solutions which interface with the blockchain cheaply and efficiently. Very big stuff for anyone trying to use blockchain as a resolution mechanism but wants to hide their business rules in the process!
 

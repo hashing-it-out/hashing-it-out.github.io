@@ -10,6 +10,6 @@ featuredImage: "images/32HIO.jpg"
 
 * * *
 
-\[one\_half\]Episode 32\[/one\_half\]\[one\_half\_last\]December 07, 2018 — 61 mins\[/one\_half\_last\] **Guests: Alex Miller & Karl Kreder**
+ Episode 32 December 07, 2018 — 61 mins - **Guests: Alex Miller & Karl Kreder**
 
 Grid+ is one of the most legitimate and exciting products utilizing blockchain in the space, so we're very excited to present Alex Miller (CTO) and Karl Kreder (VP Hardware) on our program. We discuss their line of blockchain appliances, how they're built, their design philosophies, and the challenges in building hardware for blockchains. We get to hear some of their thoughts on the future of blockchain and consensus protocols, and where they see the world moving into the future as decentralization becomes and adopted norm.

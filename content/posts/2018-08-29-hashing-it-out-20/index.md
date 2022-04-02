@@ -10,7 +10,7 @@ featuredImage: "ep20_Kacperbak.jpg"
 
 * * *
 
-\[one\_half\]Episode 20\[/one\_half\]\[one\_half\_last\]August 29, 2018 — 56 mins\[/one\_half\_last\] **Guests: Kacper Bak**
+ Episode 20 August 29, 2018 — 56 mins - **Guests: Kacper Bak**
 
 In this episode, we interview Kacper Bak, Research Engineer at Quanstamp. Quantstamp has created a system for auditing smart contracts automatically, testing for known exploits. They verify the more common attack vectors, and provide a report to the user about the potential threat. We go into how their product is built, the future of their product, and how it can benefit and drive future innovation.
 

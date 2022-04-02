@@ -10,6 +10,6 @@ featuredImage: "mimir7.jpg"
 
 * * *
 
-\[one\_half\]Episode 07\[/one\_half\]\[one\_half\_last\]May 15, 2018 — 82 mins\[/one\_half\_last\] **Guests: Hunter Prendergast and Forrest Marshall**
+ Episode 07 May 15, 2018 — 82 mins - **Guests: Hunter Prendergast and Forrest Marshall**
 
 On this stupendous episode of Hashing It Out, we touch base with Hunter Prendergast and Forrest Marshall of MIMIR Blockchain Solutions about the technology behind their multi-chain blockchain service provider system. They discuss some of the economics behind developing their staking mechanism for ensuring trust in their network. We get into some of the challenges their system is tackling and it's unique approach which sets it apart from Layer 2 scaling solutions that exist.

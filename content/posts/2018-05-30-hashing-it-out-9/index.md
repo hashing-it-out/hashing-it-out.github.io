@@ -10,6 +10,6 @@ featuredImage: "ep9_rick.jpg"
 
 * * *
 
-\[one\_half\]Episode 09\[/one\_half\]\[one\_half\_last\]May 29, 2018 — 66 mins\[/one\_half\_last\] **Guests: Rick Dudley**
+ Episode 09 May 29, 2018 — 66 mins - **Guests: Rick Dudley**
 
 The prodigious Rick Dudley talks with us about his work as a consensus subject matter expert. He lends us his experience and wisdom in consulting for the creation of Byzantine Fault Tolerant systems. We also delve into what it takes to build a completely decentralized public data storage system and why it's such a difficult problem.

@@ -10,7 +10,7 @@ featuredImage: "HIOLOKI.jpg"
 
 * * *
 
-\[one\_half\]Episode 24\[/one\_half\]\[one\_half\_last\]September 26, 2018 — 68 mins\[/one\_half\_last\] **Guests: Simon Harman & Kee Jefferys**
+ Episode 24 September 26, 2018 — 68 mins - **Guests: Simon Harman & Kee Jefferys**
 
 Anonymity is dead... or so you thought. Marrying the technologies behind onion routing and Monero, the Loki network enables a private cryptocurrency and messaging service that hides information down to the network layer. This fascinating approach scales its privacy mechanism in the same way that Tor does and incentives those who run Loki service nodes through their Proof of Service mechanism. Tools like this keep your transactions and traffic private from any spying eyes and makes it increasingly difficult to leverage your network data as a means to track your activity.
 

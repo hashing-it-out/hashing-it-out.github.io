@@ -10,7 +10,7 @@ featuredImage: "ep14_header.jpg"
 
 * * *
 
-\[one\_half\]Episode 14\[/one\_half\]\[one\_half\_last\]July 05, 2018 — 65 mins\[/one\_half\_last\] **Guests: Thaer Khawaja**
+ Episode 14 July 05, 2018 — 65 mins - **Guests: Thaer Khawaja**
 
 On this compelling broadcast, we interview Thaer Khawaja, creator of Masari protocol. Masari is an early-stage cryptocurrency which derives its ideas from Monero to provide transaction privacy. Masari has the additional goal of scalability and is developing its own method of partitioning a blockchain called the block tree, which hopes to enable dynamic scaling on the chain. We go over the idea of block tree, some of the challenges it hopes to address, the challenges to be faced on the Masari roadmap, and the motivations behind developing a new coin.
 

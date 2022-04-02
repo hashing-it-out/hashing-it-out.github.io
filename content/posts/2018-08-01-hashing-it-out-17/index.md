@@ -10,7 +10,7 @@ featuredImage: "Hashingitout17.jpg"
 
 * * *
 
-\[one\_half\]Episode 17\[/one\_half\]\[one\_half\_last\]August 01, 2018 — 65 mins\[/one\_half\_last\] **Guests: Chris Brown & Will Dias**
+ Episode 17 August 01, 2018 — 65 mins - **Guests: Chris Brown & Will Dias**
 
 We talk to Modular's Chris Brown and Will Dias about their work building libraries for the Ethereum community. These guys are doing some very amazing work directed at financial institutions. Using their libraries, developers can build applications secure in the vetting process the Modular group implements. We talk about their approach of using Solidity libraries rather than smart contract templates, how dapp developers can and should integrate these libraries into their code, and what security concerns are addressed using their system.
 
