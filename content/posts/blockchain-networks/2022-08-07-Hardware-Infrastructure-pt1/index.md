@@ -1,11 +1,13 @@
 ---
 title: "Hardware Infrastructure, Part 1"
-date: "2022-09-06"
+date: "2022-08-07"
 categories: 
   - "hashing-it-out"
-featuredImage: "images/50hio.png"
+featuredImage: "images/hashing-it-out-podcast.png"
 series:
   - "blockchain-networks"
+tags:
+  - "infrastructure"
 ---
 
 ## Podcast Embed
@@ -25,4 +27,4 @@ Part two will look ahead with DAppNode .
 - [Vulcanize Github](https://github.com/vulcanize)
 
 ## Sponsors
-- Here is sponsor content
+- Here is sponsor contenthug
