@@ -18,4 +18,4 @@ Part two will look ahead with DAppNode .
 - [Vulcanize Github](https://github.com/vulcanize)
 
 ## Sponsors
-- Here is sponsor content
+- Here is sponsor contenthug
