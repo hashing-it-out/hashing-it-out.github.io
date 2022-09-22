@@ -58,4 +58,4 @@ Disallow: /
 User-agent: *
 Allow: /
 
-Sitemap: http://hashing-it-out.github.io/sitemap.xml
+Sitemap: http://hashingitout.com/sitemap.xml
