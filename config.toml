@@ -1,4 +1,4 @@
-baseURL = "http://hashingitout.com"
+baseURL = "http://www.hashingitout.com"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
