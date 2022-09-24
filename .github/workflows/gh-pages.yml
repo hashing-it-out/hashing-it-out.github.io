@@ -23,6 +23,14 @@ jobs:
 
       - name: Build
         run: hugo --minify
+ 
+      - name: Create CNAME
+        uses: "DamianReeves/write-file-action@master"
+        with:
+          path: CNAME
+          write-mode: write
+          contents: |
+            hashingitout.com
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
