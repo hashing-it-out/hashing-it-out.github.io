@@ -4,6 +4,7 @@ date: "2022-08-07"
 categories: 
   - "hashing-it-out"
 featuredImage: "images/hashing-it-out-podcast.png"
+summary: "In this episode, Corey, Dee and Jessie talk to Rick Dudley , President of Vulcanize  &  TrueBlocks  Founder, TJ Rush, about blockchain hardware."
 series:
   - "blockchain-networks"
 tags:
@@ -15,16 +16,14 @@ tags:
 
 
 ## Description
-Hashing It Out is dropping a  series on the infrastructure of blockchain.
+Hashing It Out is dropping a series on the infrastructure of blockchain.
+
 In this episode, Corey, Dee and Jessie talk to Rick Dudley , President of Vulcanize  &  TrueBlocks  Founder, TJ Rush, about blockchain hardware.
-Part one of this episode covers the infrastructure of blockchain hardware from the beginning to now. 
-Part two will look ahead with DAppNode .
+
+Part one of this episode covers the infrastructure of blockchain hardware from the beginning to now. Part two will look ahead with DAppNode.
 
 ## Links 
 - [Rick's Twitter](https://twitter.com/AFDudley0)
 - [TJ's Twitter](https://twitter.com/tjrush)
 - [TrueBlocks](https://trueblocks.io)
 - [Vulcanize Github](https://github.com/vulcanize)
-
-## Sponsors
-- Here is sponsor contenthug

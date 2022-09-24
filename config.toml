@@ -46,37 +46,29 @@ theme = "DoIt"
         title = ""
         weight = 1
       [[languages.en.menu.main]]
-        identifier = "tags"
-        pre = ""
-        post = ""
-        name = "Tags"
-        url = "/tags/"
-        title = ""
-        weight = 2
-      [[languages.en.menu.main]]
-        identifier = "categories"
-        pre = ""
-        post = ""
-        name = "Categories"
-        url = "/categories/"
-        title = ""
-        weight = 3
-      [[languages.en.menu.main]]
         identifier = "series"
         pre = ""
         post = ""
         name = "Series"
         url = "/series/"
         title = ""
-        weight = 4
+        weight = 2
       [[languages.en.menu.main]]
-        identifier = "authors"
+        identifier = "tags"
         pre = ""
         post = ""
-        name = "Authors"
-        url = "/authors/"
+        name = "Tags"
+        url = "/tags/"
         title = ""
-        weight = 5
+        weight = 3
+      [[languages.en.menu.main]]
+        identifier = "resources"
+        pre = ""
+        post = ""
+        name = "Resources"
+        url = "/Resources/"
+        title = ""
+        weight = 4
       [[languages.en.menu.main]]
         identifier = "about"
         pre = ""
@@ -84,13 +76,13 @@ theme = "DoIt"
         name = "About"
         url = "/about/"
         title = ""
-        weight = 8
+        weight = 5
       [[languages.en.menu.main]]
         identifier = "github"
         pre = "<i class='fab fa-github fa-fw'></i>"
         post = ""
         name = ""
-        url = "https://github.com/HEIGE-PCloud/DoIt"
+        url = "https://github.com/hashing-it-out"
         title = "GitHub"
         weight = 9
     [languages.en.params]
@@ -872,10 +864,10 @@ theme = "DoIt"
 # Author config
 # 作者配置
 [author]
-  name = "PCloud"
-  email = "heige.pcloud@outlook.com"
-  link = "https://github.com/HEIGE-PCloud"
-  avatar = "/images/avatar.webp"
+  name = "HIO"
+  email = "info@hashingitout.stream"
+  link = "https://hashingitout.com"
+  avatar = "/images/hio-logo.png"
   gravatarEmail = ""
 
 # Sitemap config
