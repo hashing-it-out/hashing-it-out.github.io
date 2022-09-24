@@ -4,7 +4,6 @@ on:
   push:
     branches:
       - master  # Set a branch to deploy
-  pull_request:
 
 jobs:
   build:
@@ -17,8 +16,9 @@ jobs:
       - name: Deploy the site
         uses: benmatselby/hugo-deploy-gh-pages@main
         env:
-          HUGO_VERSION: 0.88.0
+          HUGO_VERSION: 0.102.1
           TARGET_REPO: hashing-it-out/hashing-it-out.github.io
+          HUGO_EXTENDED: true
           TARGET_BRANCH: gh_pages
           TOKEN: ${{ secrets.TOKEN }}
           # HUGO_ARGS: '-t academic'
