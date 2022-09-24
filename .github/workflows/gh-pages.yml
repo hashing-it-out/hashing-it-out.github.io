@@ -27,7 +27,7 @@ jobs:
       - name: Create CNAME
         uses: "DamianReeves/write-file-action@master"
         with:
-          path: CNAME
+          path: ${{ env.home}}/CNAME
           write-mode: overwrite
           contents: |
             hashingitout.com
