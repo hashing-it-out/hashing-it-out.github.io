@@ -28,7 +28,7 @@ jobs:
         uses: "DamianReeves/write-file-action@master"
         with:
           path: CNAME
-          write-mode: write
+          write-mode: overwrite
           contents: |
             hashingitout.com
 
