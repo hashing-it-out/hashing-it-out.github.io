@@ -15,5 +15,3 @@ Today we’ll be talking with Ari Juels. Juels is Co-Director of the Initiative 
 - [Chainlink Labs](https://chainlinklabs.com)
 - [Cornell Tech](https://tech.cornell.edu)
 
-## Sponsors
-- Here is sponsor content

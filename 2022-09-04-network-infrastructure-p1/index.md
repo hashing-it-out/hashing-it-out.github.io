@@ -16,5 +16,3 @@ Stay tuned for part 2, covering privacy in the network layer.
 - [Guilia Fanti](https://www.ece.cmu.edu/directory/bios/fanti-giulia.html)
 - [Vac](https://vac.dev)
 
-## Sponsors
-- Here is sponsor content
