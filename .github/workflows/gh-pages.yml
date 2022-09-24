@@ -25,12 +25,8 @@ jobs:
         run: hugo --minify
  
       - name: Create CNAME
-        uses: "DamianReeves/write-file-action@master"
-        with:
-          path: ${{ env.home}}/CNAME
-          write-mode: overwrite
-          contents: |
-            hashingitout.com
+        run: |
+        printf "hashingitout.com" > CNAME
 
       - name: Deploy
         uses: peaceiris/actions-gh-pages@v3
