@@ -6,7 +6,10 @@ categories:
 featuredImage: "images/flash-hash.png"
 series:
   - "flash-hash"
+tags:
+  - "Ethereum"
 ---
+
 
 ## Podcast Embed
 {{<podcast-embed url="https://embed.sounder.fm/play/467718">}}
