@@ -3,7 +3,7 @@ title: "Personals - Ari Juels"
 date: "2022-08-28"
 categories: 
   - "hashing-it-out"
-featuredImage: "images/ari.png"
+featuredImage: "images/HIOep114-1.png"
 summary: "Today we’ll be talking with Ari Juels. Juels is Co-Director of the Initiative for CryptoCurrencies and Contracts (IC3). He is also Chief Scientist at Chainlink Labs and a Professor in the Jacobs Technion-Cornell Institute at Cornell Tech. We'll be talking about his work and what motivates him."
 series:
   - "personals"
