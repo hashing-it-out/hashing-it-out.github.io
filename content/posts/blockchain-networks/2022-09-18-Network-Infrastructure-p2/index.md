@@ -3,7 +3,7 @@ title: "Network Infrastructure, Part 2"
 date: "2022-09-14"
 categories: 
   - "hashing-it-out"
-featuredImage: "images/Network2.png"
+featuredImage: "images/HIOep117-1.png"
 summary: "In this episode, Corey, Dee and Jessie talk to Assistant Professor of electrical and computer engineering at Carnegie Mellon University, Giulia Fanti & member of the Vac research development group at Status, Hanno Cornelius about privacy and security in the network layer."
 series:
   - "blockchain-networks"
