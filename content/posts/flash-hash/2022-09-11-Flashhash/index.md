@@ -3,7 +3,7 @@ title: "Flash Hash: Sept 11, 2022"
 date: "2022-09-11"
 categories: 
   - "hashing-it-out"
-featuredImage: "images/HIOep116-1.png"
+featuredImage: "images/Flashhash-0911.png"
 summary: "This episode includes the Ethereum merge, Crypto Leaks piece on Avalanche and Kyle Roche, and decentralized weather stations."
 series:
   - "flash-hash"

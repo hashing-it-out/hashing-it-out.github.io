@@ -3,7 +3,7 @@ title: "Personals - David Theodore"
 date: "2022-09-25"
 categories: 
   - "hashing-it-out"
-featuredImage: ""
+featuredImage: "images/David.png"
 summary: "David Theodore, Security Researcher at Ethereum, talks about the merge and his path from electrical engineering to security."
 series:
   - "personals"

@@ -3,7 +3,7 @@ title: "Hardware Infrastructure, Part 1"
 date: "2022-08-07"
 categories: 
   - "hashing-it-out"
-featuredImage: "images/HIOep112-1.png"
+featuredImage: "images/Hardware-one.png"
 summary: "In this episode, Corey, Dee and Jessie talk to Rick Dudley , President of Vulcanize  &  TrueBlocks  Founder, TJ Rush, about blockchain hardware."
 series:
   - "blockchain-networks"
