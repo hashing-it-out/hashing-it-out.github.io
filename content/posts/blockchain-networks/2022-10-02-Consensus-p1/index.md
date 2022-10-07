@@ -8,7 +8,8 @@ summary: "Mohammad Mussadiq Jalalzai, consensus researcher at Status, discusses 
 series:
   - "blockchain-networks"
 tags:
-  - "consensus", "Mohammad Jalalzai"
+  - "consensus" 
+  - "Mohammad Jalalzai"
 ---
 
 ## Podcast Embed
