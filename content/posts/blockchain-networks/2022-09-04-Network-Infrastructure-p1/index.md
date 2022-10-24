@@ -3,8 +3,7 @@ title: "Network Infrastructure, Part 1"
 date: "2022-09-04"
 categories: 
   - "hashing-it-out"
-featuredImage: "images/Network-web-one-version-2
-.png"
+featuredImage: "images/Network-web-one-version-2.png"
 summary: "In this episode, Corey, Dee and Jessie talk to Assistant Professor of electrical and computer engineering at Carnegie Mellon University, Giulia Fanti  & member of the Vac research development group at Status, Hanno Cornelius."
 series:
   - "blockchain-networks"
