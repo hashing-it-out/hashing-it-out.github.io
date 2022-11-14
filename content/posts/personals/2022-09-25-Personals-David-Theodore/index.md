@@ -16,7 +16,7 @@ tags:
 {{<podcast-embed url="https://embed.sounder.fm/play/476086">}}
 
 ## YouTube Embed
-{{<youtube url="https://www.youtube.com/watch?v=CuYKAmYspDo">}}
+{{<youtube url="https://www.youtube.com/embed/CuYKAmYspDo">}}
 
 ## Description
 David Theodore, Security Researcher at Ethereum, talks about the merge and his path from electrical engineering to security.
