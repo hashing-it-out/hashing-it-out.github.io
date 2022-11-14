@@ -20,11 +20,6 @@ tags:
 ## Youtube Embed
 {{<youtube url="<iframe width="560" height="315" src="https://www.youtube.com/embed/3EDdi1kpvNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>}}
 
-## Episode Articles
-{{<bitcoin-miners url=https://bloom.bg/3firu4O>}}
-{{<THE-protocol url=https://bit.ly/3U9j6TR>}}
-{{<metaverse url=https://bit.ly/3WftXgW>}}
-
 ## Description
 Executive Producer, Christian, attempts to keep Corey, Dee, and Jessie on topic and within two a minutes a piece on three timely topics.
 

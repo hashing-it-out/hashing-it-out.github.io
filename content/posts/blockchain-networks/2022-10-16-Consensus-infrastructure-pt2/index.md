@@ -13,7 +13,7 @@ tags:
 ---
 
 ## Podcast Embed
-{{<podcast-embed url="https://hashingitout.sounder.fm/episode/consensus-infrastructure-pt-2">}} 
+{{<podcast-embed url="https://embed.sounder.fm/play/483328">}} 
 
 ## Description
 In this episode, Corey, Dee and Jessie talk to Ethereum Co-Founder, Vitalik Buterin. 

@@ -3,7 +3,7 @@ title: "Data, Part 2"
 date: "2022-11-14"
 categories: 
   - "hashing-it-out"
-featuredImage: "images/Data-web-2.png"
+featuredImage: "images/data2.png"
 summary: "Hashing It Out continues its series on blockchain infrastructure with part 2 of the data layer. In this episode Corey and Jessie talk to Jacek Sieka from Status."
 series:
   - "blockchain-networks"
@@ -14,7 +14,7 @@ tags:
 ---
 
 ## Podcast Embed
-{{<podcast-embed url="https://hashingitout.sounder.fm/episode/data-infrastructure-pt-2">}} 
+{{<podcast-embed url="https://embed.sounder.fm/play/491596">}} 
 
 ## Description
 In this episode Corey and Jessie talk to Jacek Sieka from Status.
