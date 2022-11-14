@@ -15,10 +15,10 @@ tags:
 
 
 ## Podcast Embed
-{{<podcast-embed url="https://hashingitout.sounder.fm/episode/flash-hash-10-31-2022">}}
+{{<podcast-embed url="https://embed.sounder.fm/play/489248">}}
 
 ## Youtube Embed
-{{<youtube url="https://youtu.be/3EDdi1kpvNk">}}
+{{<youtube url="<iframe width="560" height="315" src="https://www.youtube.com/embed/3EDdi1kpvNk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>>}}
 
 ## Episode Articles
 {{<bitcoin-miners url=https://bloom.bg/3firu4O>}}
