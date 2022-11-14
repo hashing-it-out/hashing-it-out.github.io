@@ -6,7 +6,7 @@
 {{<podcast-embed url="https://embed.sounder.fm/play/467718">}}
 
 ## Youtube Embed
-{{<youtube url="<https://www.youtube.com/embed/yJC7BcDhdXg">}}
+{{<youtube url="https://embed.sounder.fm/play/467718">}}
 
 ## Description
 Executive Producer, Christian, attempts to keep Corey, Dee, and Jessie on topic and within two a minutes a piece on three timely topics.
