@@ -15,10 +15,10 @@ tags:
 
 
 ## Podcast Embed
-{{<podcast-embed url="https://hashingitout.sounder.fm/episode/flash-hash-100922">}}
+{{<podcast-embed url="https://embed.sounder.fm/play/482132">}}
 
 ## Youtube Embed
-{{<youtube url="https://www.youtube.com/watch?v=GX27Tq8e3lE">}}
+{{<youtube url="https://www.youtube.com/embed/GX27Tq8e3lE">}}
 
 ## Description
 Executive Producer, Christian, attempts to keep Corey, Dee, and Jessie on topic and within two a minutes a piece on three timely topics.
