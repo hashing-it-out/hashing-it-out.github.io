@@ -15,7 +15,7 @@ tags:
 
 
 ## Podcast Embed
-{{<podcast-embed url="https://hashingitout.sounder.fm/episode/flash-hash-10-31-2022">}}
+{{<podcast-embed url="https://embed.sounder.fm/play/489248">}}
 
 ## Youtube Embed
 {{<youtube 3EDdi1kpvNk>}}
