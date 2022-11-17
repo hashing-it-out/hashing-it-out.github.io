@@ -17,7 +17,7 @@ tags:
 {{<podcast-embed url="https://embed.sounder.fm/play/485912">}}
 
 ## YouTube Embed
-{{<youtube url="https://www.youtube.com/embed/CC-bpd-hZ6g">}}
+{{<youtube CC-bpd-hZ6g>}}
 
 ## Description
 In this Hashing It Out Personals episode, we talk to Lucian Stroie, Senior Technical Product Manager at Ava Labs and Founder at Coral.
