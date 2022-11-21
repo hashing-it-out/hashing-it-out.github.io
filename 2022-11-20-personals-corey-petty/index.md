@@ -5,7 +5,7 @@
 {{<podcast-embed url="https://embed.sounder.fm/play/492846">}}
 
 ## YouTube Embed
-{{<youtube zOQfC87eCS8>}}
+{{<youtube WuaMA852Rf4>}}
 
 ## Description
 In this Hashing It Out Personals episode, we flip the script and talk to Hashing It Out host, Corey Petty.
