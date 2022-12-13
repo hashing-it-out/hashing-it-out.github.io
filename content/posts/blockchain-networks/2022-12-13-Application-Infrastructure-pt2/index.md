@@ -17,6 +17,3 @@ tags:
 
 ## Description
 In this episode, Corey, Jessie, and Dee talk to Patrick O'Grady at Ava Labs.
-
-## Links 
-- [Patrick O'Grady](https://twitter.com/_patrickogrady)
