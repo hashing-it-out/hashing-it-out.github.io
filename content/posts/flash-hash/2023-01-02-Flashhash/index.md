@@ -1,6 +1,6 @@
 ---
-title: "Flash Hash: Dec 05, 2022"
-date: "2022-12-05"
+title: "Flash Hash: Jan 02, 2023"
+date: "2022-01-23"
 categories: 
   - "hashing-it-out"
 featuredImage: "images/Flash Hash 0102.png"
