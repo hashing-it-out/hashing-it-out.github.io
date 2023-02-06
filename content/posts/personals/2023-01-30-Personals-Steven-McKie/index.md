@@ -12,7 +12,7 @@ tags:
 ---
 
 ## Podcast Embed
-{{<podcast-embed url="https://hashing-it-out.simplecast.com/episodes/hashing-it-out-personals-steven-mckie">}}
+{{<podcast-embed url="<iframe height="200px" width="100%" frameborder="no" scrolling="no" seamless src="https://player.simplecast.com/120d5fd6-a5de-4db9-b71b-4996abe8e477?dark=false"></iframe>">}}
 
 ## YouTube Embed
 {{<youtube pe5ac3aCgdM>}}
