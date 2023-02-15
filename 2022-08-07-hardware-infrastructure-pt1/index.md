@@ -2,7 +2,7 @@
 
 
 ## Podcast Embed
-{{<podcast-embed url="https://embed.sounder.fm/play/452886">}}
+{{<podcast-embed url="https://player.simplecast.com/7cbb05e7-923e-4d9f-ae69-63290fda34a8?dark=false&color=EE6E04">}}
 
 
 ## Description
