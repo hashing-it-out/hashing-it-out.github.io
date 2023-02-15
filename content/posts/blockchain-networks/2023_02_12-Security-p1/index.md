@@ -3,7 +3,7 @@ title: "Blockchain Security, Part 1"
 date: "2023-02-12"
 categories: 
   - "hashing-it-out"
-featuredImage: "images/Mehdi.png"
+featuredImage: "images/Mehdi1.png"
 summary: "Corey, Dee, and Jessie talk to Mehdi Zerouali, Director at Sigma Prime, about security on the blockchain."
 series:
   - "blockchain-networks"
