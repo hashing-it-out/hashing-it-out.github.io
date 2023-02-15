@@ -12,7 +12,7 @@ tags:
 ---
 
 ## Podcast Embed
-{{<podcast-embed url="https://embed.sounder.fm/play/495947">}}
+{{<podcast-embed url="https://hashing-it-out.simplecast.com/episodes/application-infrastructure-pt-2">}}
 
 
 ## Description
