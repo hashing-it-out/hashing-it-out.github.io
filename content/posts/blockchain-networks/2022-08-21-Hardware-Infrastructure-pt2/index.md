@@ -12,8 +12,7 @@ tags:
 ---
 
 ## Podcast Embed
-{{<podcast-embed url="https://embed.sounder.fm/play/459689">}}
-
+{{<podcast-embed url="https://player.simplecast.com/4ab693af-5ba1-497a-8388-319b47df9e97?dark=false&color=EE6E04">}}
 
 ## Description
 Hashing It Out is dropping a series on the infrastructure of blockchain.
