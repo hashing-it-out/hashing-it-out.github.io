@@ -13,7 +13,7 @@ tags:
 ---
 
 ## Podcast Embed
-{{<podcast-embed url="https://embed.sounder.fm/play/467718">}}
+{{<podcast-embed url="https://player.simplecast.com/8326b9f5-1bd2-4c88-ab58-cb6489f207d8?dark=false&color=EE6E04">}}
 
 ## YouTube Embed
 {{<youtube url="https://www.youtube.com/watch?v=_f0uLkJ1qHc">}}
