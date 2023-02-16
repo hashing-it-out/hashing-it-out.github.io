@@ -14,7 +14,6 @@ tags:
 ## Podcast Embed
 {{<podcast-embed url="https://player.simplecast.com/6908a533-f5ce-4a7f-ab30-acd6d303535d?dark=false&color=EE6E04">}}
 
-
 ## Description
 Hashing It Out is continuing its series on the infrastructure of blockchain with the Network layer.
 
