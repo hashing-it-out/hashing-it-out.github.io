@@ -1,8 +1,7 @@
 # Personals -  Steven McKie
 
 
-## Podcast Embed
-{{<podcast-embed url="https://hashing-it-out.simplecast.com/episodes/hashing-it-out-personals-steven-mckie">}}
+
 
 ## YouTube Embed
 {{<youtube pe5ac3aCgdM>}}
