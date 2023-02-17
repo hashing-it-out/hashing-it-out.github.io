@@ -14,7 +14,8 @@ tags:
 ---
 
 
-
+## Podcast Embed
+{{<podcast-embed url="https://player.simplecast.com/8e1da6b6-20f7-48ff-a030-eab5d94af6d1?dark=false&color=EE6E04">}}
 
 ## Youtube Embed
 {{<youtube kMoycmr9r_Y>}}
