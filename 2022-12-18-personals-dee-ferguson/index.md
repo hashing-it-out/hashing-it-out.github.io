@@ -1,8 +1,7 @@
 # Personals - Dee Ferguson
 
 
-## Podcast Embed
-{{<podcast-embed url="https://embed.sounder.fm/play/496445">}}
+
 
 ## YouTube Embed
 {{<youtube DWMFgCbUZXY>}}
