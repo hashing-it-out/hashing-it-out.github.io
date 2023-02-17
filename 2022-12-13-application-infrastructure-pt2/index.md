@@ -2,7 +2,7 @@
 
 
 ## Podcast Embed
-{{<podcast-embed url="https://hashing-it-out.simplecast.com/episodes/application-infrastructure-pt-2">}}
+{{<podcast-embed url="https://player.simplecast.com/ac22910b-3633-4a13-880c-b74f0773016c?dark=false&color=EE6E04">}}
 
 
 ## Description
