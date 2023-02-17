@@ -1,8 +1,7 @@
 # Consensus, Part 1
 
 
-## Podcast Embed
-{{<podcast-embed url="https://embed.sounder.fm/play/479566">}}
+
 
 
 ## Description
