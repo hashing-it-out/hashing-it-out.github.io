@@ -1,7 +1,8 @@
 # Personals - Corey Petty
 
 
-
+## Podcast Embed
+{{<podcast-embed url="https://player.simplecast.com/ad8b0d03-8b98-4130-a606-fcea4f5c9d3d?dark=false&color=EE6E04">}}
 
 ## YouTube Embed
 {{<youtube WuaMA852Rf4>}}
