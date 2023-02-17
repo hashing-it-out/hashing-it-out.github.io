@@ -2,8 +2,7 @@
 
 
 
-## Podcast Embed
-{{<podcast-embed url="https://embed.sounder.fm/play/498688">}}
+
 
 ## Youtube Embed
 {{<youtube krcbtMGHQlI>}}
