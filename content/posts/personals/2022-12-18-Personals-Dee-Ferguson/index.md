@@ -11,7 +11,8 @@ tags:
   - "Dee Ferguson"
 ---
 
-
+## Podcast Embed
+{{<podcast-embed url="https://player.simplecast.com/792515d4-3c8d-47d4-8aa5-973ec481e9f6?dark=false&color=EE6E04">}}
 
 ## YouTube Embed
 {{<youtube DWMFgCbUZXY>}}
