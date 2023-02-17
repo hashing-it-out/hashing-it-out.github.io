@@ -1,8 +1,7 @@
 # Personals - David Theodore
 
 
-## Podcast Embed
-{{<podcast-embed url="https://embed.sounder.fm/play/476086">}}
+
 
 ## YouTube Embed
 {{<youtube CuYKAmYspDo>}}
