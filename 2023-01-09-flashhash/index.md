@@ -2,7 +2,8 @@
 
 
 
-
+## Podcast Embed
+{{<podcast-embed url="https://player.simplecast.com/83cdd8b9-fbe2-4836-8268-f7cc7acde85f?dark=false&color=EE6E04">}}
 
 ## Youtube Embed
 {{<youtube fy46Dp6FP0g>}}
