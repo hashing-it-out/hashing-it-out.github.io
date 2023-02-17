@@ -14,8 +14,7 @@ tags:
 ---
 
 
-## Podcast Embed
-{{<podcast-embed url="https://embed.sounder.fm/play/482132">}}
+
 
 ## Youtube Embed
 {{<youtube GX27Tq8e3lE>}}
