@@ -12,8 +12,7 @@ tags:
   - "Infinity Keys"
 ---
 
-## Podcast Embed
-{{<podcast-embed url="https://embed.sounder.fm/play/492846">}}
+
 
 ## YouTube Embed
 {{<youtube WuaMA852Rf4>}}
