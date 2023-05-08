@@ -4,7 +4,7 @@ date: "2023-03-22"
 categories: 
   - "hashing-it-out"
 featuredImage: "images/Stephen Pair.png"
-summary: "Does this work? In this Hashing It Out Personals episode, Dee talks to Stephen Pair, Cofounder, President and CEO of BitPay.com."
+summary: "In this Hashing It Out Personals episode, Dee talks to Stephen Pair, Cofounder, President and CEO of BitPay.com."
 series:
   - "personals"
 tags:
