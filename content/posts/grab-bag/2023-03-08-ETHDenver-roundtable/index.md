@@ -6,7 +6,7 @@ categories:
 featuredImage: "images/ethdenver pic.png"
 summary: "In a Bitcoin Podcast throwback, Corey and Jessie talk about their time at ETHDenver and answer questions from Christian and Dee."
 series:
-  - "blockchain-networks"
+  - "grab-bag"
 tags:
   - "ETHDenver"
 ---
