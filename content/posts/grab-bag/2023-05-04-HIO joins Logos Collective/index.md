@@ -3,7 +3,7 @@ title: "HIO joins Logos Collective"
 date: "2023-05-04"
 categories: 
   - "hashing-it-out"
-featuredImage: "images/logos_collective.png"
+featuredImage: "images/LogosCollective.png"
 summary: "Your favorite podcast is joining the Logos Collective."
 series:
   - "grab-bag"
