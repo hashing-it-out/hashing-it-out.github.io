@@ -1,3 +1,5 @@
+
+
 # 001: Github
 github:
   Weight: 1
@@ -572,3 +574,11 @@ rss:
   Newtab: true
   Icon:
     Class: fas fa-rss fa-fw
+
+# 000: Discord
+discord:
+  Weight: 73
+  Prefix: https://discord.gg/
+  Title: Discord
+  Icon:
+    Simpleicons: discord
